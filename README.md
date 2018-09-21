@@ -1,3 +1,11 @@
+public badge for the parent
+[![BCH compliance](https://bettercodehub.com/edge/badge/cookiemonster/taranis3?branch=release-3.4)](https://bettercodehub.com/)
+
+public badge for the fork
+[![BCH compliance](https://bettercodehub.com/edge/badge/cookiemonster/taranis3?branch=release-3.4)](https://bettercodehub.com/)
+
+
+
 # Taranis
 
 Taranis is a tool developed by NCSC-NL to facilitate the process of monitoring 
